@@ -1,0 +1,7 @@
+interface:
+  display_name: "Options Premium Scanner"
+  short_description: "Run and explain the repo's option premium scan."
+  default_prompt: "Use $options-premium-scanner to run the options premium scanner, read the newest report, and summarize the best call and put opportunities."
+
+policy:
+  allow_implicit_invocation: true
